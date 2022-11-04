@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Posion food Mod",
+    "icon": {
+      "value": "CUSTOM:Poisonitem"
+    },
+    "showSearch": true
+  }
+}

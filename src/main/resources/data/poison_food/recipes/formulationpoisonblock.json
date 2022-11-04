@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "poison_food:poisonitem"
+    },
+    "1": {
+      "item": "poison_food:poisonitem"
+    },
+    "2": {
+      "item": "poison_food:poisonitem"
+    },
+    "3": {
+      "item": "poison_food:poisonitem"
+    },
+    "4": {
+      "item": "poison_food:poisonitem"
+    },
+    "5": {
+      "item": "poison_food:poisonitem"
+    },
+    "6": {
+      "item": "poison_food:poisonitem"
+    },
+    "7": {
+      "item": "poison_food:poisonitem"
+    },
+    "8": {
+      "item": "poison_food:poisonitem"
+    }
+  },
+  "result": {
+    "item": "poison_food:poison_block",
+    "count": 1
+  }
+}

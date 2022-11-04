@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "poison_food:block/poison_block"
+    }
+  }
+}

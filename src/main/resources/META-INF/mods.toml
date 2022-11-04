@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="poison_food"
+version="1.1.0"
+displayName="Poison food"
+credits="本模组由mtg制作。"
+displayURL="https://www.kuaishou.com/profile/3xcs4chgu3fj6fs"
+authors="mtg"
+description='''
+添加了一些有毒的食物和相关内容。
+'''
+
+[[dependencies.poison_food]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

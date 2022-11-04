@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "poison_food:poison_block"
+    }
+  ],
+  "result": {
+    "item": "poison_food:poisonitem",
+    "count": 9
+  }
+}

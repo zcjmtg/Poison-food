@@ -1,0 +1,11 @@
+{
+  "guyongzhe": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "poison_food:gu_yong_zhe_",
+        "stream": false
+      }
+    ]
+  }
+}
